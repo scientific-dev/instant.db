@@ -1,0 +1,11 @@
+# Package files
+package-lock.json
+node_modules/
+
+# Test files
+test/
+database.json
+
+# Editor files
+.vscode/
+test.sh

@@ -1,0 +1,13 @@
+# Typescript files
+src/
+tsconfig.json
+
+# Editor files
+.vscode/
+
+# Package files
+package-lock.json
+
+# Test files
+test/
+test.sh
